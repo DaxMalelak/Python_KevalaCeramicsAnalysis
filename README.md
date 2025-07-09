@@ -49,7 +49,7 @@ This project seeks to answer the following business-critical questions:
 
 ---
 
-## 🗂️ Data Overview
+## Data Overview
 
 The datasets used in this project were sourced from the company’s internal systems and included:
 
