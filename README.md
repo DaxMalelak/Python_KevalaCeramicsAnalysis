@@ -74,5 +74,4 @@ The interactive Tableau storyboard summarizes the project’s key insights acros
 
 This project is based on real business data provided by a Bali-based ceramics manufacturer. Permission was granted to use the data and insights as part of a professional analytics portfolio, with the understanding that all client names and sensitive identifiers would be omitted. The analysis reflects independent work carried out for strategic decision support.
 
----
 
