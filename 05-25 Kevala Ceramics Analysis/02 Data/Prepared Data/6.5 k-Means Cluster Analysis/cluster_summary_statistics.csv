@@ -1,0 +1,5 @@
+Cluster,Total_USD_count,Total_USD_mean,Total_USD_median,Total_USD_min,Total_USD_max,Total_USD_std,Total_Quantity_count,Total_Quantity_mean,Total_Quantity_median,Total_Quantity_min,Total_Quantity_max,Total_Quantity_std
+0,4210,535.14,212.64,0.0,7159.89,865.22,4210,42.34,4.0,1.0,700.0,82.63
+1,7,124105.1,102722.4,78882.31,195880.81,42222.69,7,9831.0,8970.0,6342.0,14210.0,2715.36
+2,30,35381.24,34726.81,17704.21,65275.0,11730.58,30,3184.4,2789.0,1701.0,7063.0,1379.03
+3,203,10446.49,9425.0,1.63,32829.82,5024.4,203,922.11,830.0,300.0,2406.0,409.82

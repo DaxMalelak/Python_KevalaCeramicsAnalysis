@@ -1,0 +1,280 @@
+,client_name,quote_idr,order_idr,Qty (Pcs),quote_to_order_ratio,area,customer_category,quote_category,quote_tier,order_tier,conversion_tier,conversion_range,log_ratio
+0,12 Urban Cafe Canggu (Price Indication),232875000.0,0.0,1710.0,0.0,Local,Restaurant,High,High,Low,Low,<0.5,0.0
+1,25 Hours Hotel,527050000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+2,32Do Bali,7000000.0,7000000.0,100.0,1.0,Local,Cafe,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+3,Abisena,746749250.0,151382500.0,0.0,0.2027219980468678,Local,Hotel,High,High,Medium,Low,<0.5,0.18458731971914502
+4,Adiwana Jembawan,32000000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+5,Agave & Azul (PT Vatos Tamora Indonesia),63780000.0,63780000.0,336.0,1.0,Local,,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+6,Age Butcher Bali,137910000.0,137910000.0,0.0,1.0,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+7,Akasa Kintamani,154000000.0,0.0,1450.0,0.0,Local,Cafe,Medium,Medium,Low,Low,<0.5,0.0
+8,Alila Jakarta,55200000.0,0.0,0.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+9,Alila Seminyak,796943600.0,469470000.0,568.0,0.5890881111285667,Local,Hotel,High,High,High,Medium,0.5–1.5,0.46316033669601764
+10,Alila Uluwatu,353029500.0,349537500.0,168.0,0.9901084753540427,Local,Hotel,High,High,High,Medium,0.5–1.5,0.6881891474789348
+11,Amankila,14095000.0,14095000.0,0.0,1.0,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+12,Amarterra Villas Bali Nusa Dua,0.0,30534000.0,0.0,,Local,Hotel,Low,Low,Low,,,
+13,Andaz Bali,65375000.0,79620000.0,278.0,1.2178967495219886,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.7965593366823228
+14,Anna Kersova,0.0,245602158.0,0.0,,Export,Personal,Low,Low,High,,,
+15,Arna Beach Glamping ,89880000.0,0.0,0.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+16,Arya Sumba Resort,0.0,38640000.0,0.0,,Local,Hotel,Low,Low,Low,,,
+17,Asa Maia,15666000.0,15666000.0,112.0,1.0,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+18,Ayana Bali,3263800880.0,860177500.0,6900.0,0.2635508511781515,Local,Hotel,High,High,High,Low,<0.5,0.23392589331892036
+19,Ayana Hospitality,0.0,1192658630.0,0.0,,Local,Hotel,Low,Low,High,,,
+20,Ayana Jakarta Mid Plaza,39720000.0,7000000.0,224.0,0.17623363544813697,Local,Restaurant,Low,Low,Low,Low,<0.5,0.1623174993429998
+21,BGS,14895000.0,12880000.0,45.0,0.8647197045988587,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6231107493604481
+22,Bakerman,48600000.0,48600000.0,0.0,1.0,Local,Cafe,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+23,Balcony ,76418000.0,0.0,0.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+24,Bali Asli,15525000.0,15525000.0,125.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+25,Bali Boga Utama,0.0,48842000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+26,Bali Dorm Villas - Joyce & Ralph,128782000.0,128782000.0,0.0,1.0,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+27,Bali Good Food Catering,51120000.0,51120000.0,0.0,1.0,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+28,Bali Meraki,0.0,31595000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+29,Bali Radiance,195950000.0,293000000.0,150.0,1.495279408012248,Local,Hotel,Medium,Medium,High,Medium,0.5–1.5,0.9144007101126437
+30,Balikpapan Boga Utama,0.0,36692000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+31,Bambootel,369892000.0,184946000.0,2346.0,0.5,Local,Hotel,High,High,Medium,Medium,<0.5,0.4054651081081644
+32,Bandung Boga Utama,0.0,10070000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+33,Banyan Tree,82900000.0,76648000.0,231.0,0.9245838359469241,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6547097552490304
+34,Bar Vera Pererenan,0.0,19360000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+35,Barbacoa,10000000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+36,Barbarossa,0.0,20475000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+37,Bawah Reserve,38000000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+38,Begawan Restaurant ,32300000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+39,Belmond Jimbaran Puri,0.0,47860000.0,0.0,,Local,Hotel,Low,Low,Low,,,
+40,Billy Ho,32550000.0,32550000.0,67.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+41,Blanche Bistro,18000000.0,18000000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+42,Bodas Dessert Bar,40440000.0,40440000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+43,Boga Utama,455160000.0,0.0,1728.0,0.0,Local,Restaurant,High,High,Low,Low,<0.5,0.0
+44,Bokashi,49890000.0,72787500.0,180.0,1.458959711365003,Local,Restaurant,Low,Low,Medium,Medium,0.5–1.5,0.8997383789457073
+45,Bottega,50900000.0,13750000.0,0.0,0.27013752455795675,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.2391251816613894
+46,Boy and Cow,24600000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+47,Budi Susanti - Personal Order,10500000.0,6950000.0,0.0,0.6619047619047619,Local,Personal,Low,Low,Low,Medium,0.5–1.5,0.5079643914849585
+48,Buzo Salazon,84680000.0,70560000.0,0.0,0.8332546055739254,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6060928602340412
+49,Bvlgari,186519750.0,82499750.0,0.0,0.44231106893505917,Local,Hotel,Medium,Medium,Medium,Low,<0.5,0.36624673608045033
+50,CV Pasar Tani Indoguna,0.0,46600000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+51,Cafe Kistune ,0.0,69550000.0,0.0,,Local,Cafe,Low,Low,Medium,,,
+52,Canton PIK,6660000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+53,Cap Karoso,527788750.0,275425000.0,3720.0,0.521847045811416,Local,Hotel,High,High,High,Medium,0.5–1.5,0.41992475886478675
+54,Capella Taipei,0.0,451696552.0,30.0,,Export,Hotel,Low,Low,High,,,
+55,Capella Ubud,6840000.0,53012500.0,24.0,7.750365497076023,Local,Hotel,Low,Low,Medium,High,>5,2.1690954705915377
+56,Cempaka,8160000.0,8160000.0,0.0,1.0,Local,,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+57,Chella Uluwatu,199865000.0,199865000.0,2719.0,1.0,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+58,Chroma Hospitality,0.0,150603500.0,0.0,,,,Low,Low,Medium,,,
+59,Cipaku Boga Utama,0.0,142180000.0,0.0,,Local,Restaurant,Low,Low,Medium,,,
+60,Cush Cush Gallery ,2265900000.0,0.0,0.0,0.0,Local,,High,High,Low,Low,<0.5,0.0
+61,Da Maria,495040000.0,246840000.0,0.0,0.49862637362637363,Local,Restaurant,High,High,High,Low,<0.5,0.40454893763638483
+62,Dali & Jennifer,0.0,42700000.0,0.0,,Local,Personal,Low,Low,Low,,,
+63,Dine and Chat Jambi,69600000.0,0.0,0.0,0.0,Local,Cafe,Medium,Medium,Low,Low,<0.5,0.0
+64,Double tree by hilton ,19760000.0,0.0,0.0,0.0,,Hotel,Low,Low,Low,Low,<0.5,0.0
+65,Dragonfly Villa,41076000.0,40461000.0,252.0,0.9850277534326614,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.6856328956195794
+66,Drifter,116880800.0,153140800.0,100.0,1.310230593904217,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.8373473437525578
+67,Driss Tabbakalt,0.0,43800000.0,0.0,,Local,Personal,Low,Low,Low,,,
+68,Earth Island Bali,0.0,53000000.0,0.0,,Local,Restaurant,Low,Low,Medium,,,
+69,Eden,40920000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+70,Eliza Bonosusatya - Personal Order,31350000.0,0.0,0.0,0.0,Local,Personal,Low,Low,Low,Low,<0.5,0.0
+71,Expat,317168800.0,317168800.0,0.0,1.0,Local,Cafe,High,High,High,Medium,0.5–1.5,0.6931471805599453
+72,Fairmont Jakarta,1083400000.0,448025000.0,2780.0,0.4135360900867639,Local,Hotel,High,High,High,Low,<0.5,0.3460944302534096
+73,Fieldwork,172340000.0,1765000.0,22.0,0.01024138331205756,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.010189295677074911
+74,Filinvest,0.0,12842784.0,0.0,,Export,Agent,Low,Low,Low,,,
+75,Flores Runaway,21960000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+76,Four Season Jakarta,17610000.0,171740000.0,0.0,9.752413401476433,Local,Hotel,Low,Low,Medium,High,>5,2.375130231839689
+77,Four Season Jimbaran,205630000.0,160790000.0,0.0,0.7819384331080095,Local,Hotel,High,High,Medium,Medium,0.5–1.5,0.5777017791296714
+78,Four Season Langkawi,0.0,160083594.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+79,Four Season Nam Hai,0.0,109082880.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+80,Four Season Sayan,786650000.0,636425000.0,464.0,0.8090319710163351,Local,Hotel,High,High,High,Medium,0.5–1.5,0.5927918795661827
+81,Four Seasons Jakarta,15430000.0,0.0,61.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+82,French Kiss,0.0,31440000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+83,Further Hotel,0.0,8200000.0,0.0,,Local,Hotel,Low,Low,Low,,,
+84,GAB's Gastro Bar,201627000.0,201627000.0,0.0,1.0,Local,Restaurant,High,High,High,Medium,0.5–1.5,0.6931471805599453
+85,Ghost Panther,93100000.0,0.0,0.0,0.0,,,Medium,Medium,Low,Low,<0.5,0.0
+86,Gili Meno - Bask,15750000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+87,Ginger Moon,4440000.0,38190000.0,24.0,8.60135135135135,Local,Restaurant,Low,Low,Low,High,>5,2.2619038543329855
+88,Gio Private Villa,49680000.0,49680000.0,264.0,1.0,,Hotel,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+89,Grand Hyatt Jakarta,36840000.0,65340000.0,0.0,1.773615635179153,Local,Hotel,Low,Low,Medium,High,1.5–5,1.020151752515546
+90,Grand Hyatt Kuwait,0.0,180724200.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+91,Grand Melia Bali,320710000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+92,Greek Restaurant,493181500.0,327341500.0,1755.0,0.6637343452663979,Local,Restaurant,High,High,High,Medium,0.5–1.5,0.5090646813764689
+93,Hamish & Raisa,0.0,10085000.0,0.0,,Local,Personal,Low,Low,Low,,,
+94,Handara Golf & Resort Bali,224040000.0,224040000.0,888.0,1.0,Local,Hotel,High,High,High,Medium,0.5–1.5,0.6931471805599453
+95,Hilton Bali,628450000.0,513306200.0,1440.0,0.8167812872941363,Local,Hotel,High,High,High,Medium,0.5–1.5,0.597066411940083
+96,Hiyoko,17340000.0,17340000.0,108.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+97,Holiday Inn Benoa,87609000.0,76715000.0,267.0,0.8756520448812337,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6289563562388211
+98,Hotel Permana Hijau,0.0,77400000.0,0.0,,Local,Hotel,Low,Low,Medium,,,
+99,Hujan Locale,25080000.0,19150000.0,12.0,0.7635566188197768,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.5673325761155156
+100,Ibu Ming (Elaine),68560000.0,34420000.0,0.0,0.5020420070011669,Local,Personal,Medium,Medium,Low,Medium,0.5–1.5,0.40682552032847097
+101,Indigo Bandung ,153310000.0,372735000.0,692.0,2.4312504076707326,Local,Restaurant,Medium,Medium,High,High,1.5–5,1.232924745086839
+102,Indigo Bintan,1079972000.0,1052632000.0,1808.0,0.9746845288581556,Local,Hotel,High,High,High,Medium,0.5–1.5,0.6804086533708162
+103,Indigo Seminyak,135930000.0,131130000.0,158.0,0.9646877069079673,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6753333049086614
+104,Intercontinental Bali,74550000.0,31800000.0,440.0,0.42655935613682094,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.3552655004354988
+105,Intercontinental Bandung,103212000.0,11880000.0,24.0,0.11510289501220788,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.1089466831764716
+106,Ismaya Jakarta,9920000.0,54360000.0,0.0,5.479838709677419,Local,Restaurant,Low,Low,Medium,High,>5,1.8686956195725304
+107,Japa Ubud,106600000.0,106600000.0,615.0,1.0,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+108,Jeffrey Grimes,0.0,42928380.0,0.0,,Export,Personal,Low,Low,Low,,,
+109,Jin Joo,22600000.0,16680000.0,100.0,0.7380530973451327,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.5527655772080249
+110,Joali Maldives,0.0,123859890.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+111,Joyce and Ralph,165632500.0,0.0,0.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+112,Jumeirah Bali,367545000.0,148046200.0,1342.0,0.40279748058060916,Local,Hotel,High,High,Medium,Low,<0.5,0.3384684432889806
+113,Kafe Ubud,15375000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+114,Kaia Restaurant ,44160000.0,16700000.0,60.0,0.37817028985507245,,Restaurant,Low,Low,Low,Low,<0.5,0.32075674249998515
+115,Kala Uluwatu,168100000.0,168600000.0,0.0,1.0029744199881023,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6946332857524589
+116,Kanvaz Patisserie,4440000.0,0.0,0.0,0.0,Local,Cafe,Low,Low,Low,Low,<0.5,0.0
+117,Kebun Bistro,39195000.0,16995000.0,25.0,0.43360122464600076,Local,Restaurant,Low,Low,Low,Low,<0.5,0.3601896174834213
+118,Keraton,202250000.0,42150000.0,100.0,0.2084054388133498,Local,Hotel,High,High,Low,Low,<0.5,0.18930167135883919
+119,Kiros Hospitality,0.0,44664890.0,0.0,,Export,Hotel,Low,Low,Low,,,
+120,Ku De Ta,109790000.0,81720000.0,90.0,0.7443300847071682,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.5563705763318272
+121,LXR,40225000.0,57277000.0,0.0,1.4239154754505905,Local,Hotel,Low,Low,Medium,Medium,0.5–1.5,0.8853841977354824
+122,La Brisa,60880000.0,66520000.0,0.0,1.092641261498029,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.7384270295846326
+123,La Favella,84725000.0,0.0,0.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+124,La Plancha,62760000.0,57000000.0,0.0,0.9082217973231358,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6461718122465412
+125,La Reserve,0.0,16650000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+126,Langham,214535000.0,207650000.0,842.0,0.9679073344675694,Local,Hotel,High,High,High,Medium,0.5–1.5,0.6769707113769465
+127,Le Meridien Jakarta,738500000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+128,Le Reserve Bali,15000000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+129,Little Lane,210460000.0,0.0,0.0,0.0,Local,,High,High,Low,Low,<0.5,0.0
+130,Locavore,15000000.0,75500000.0,0.0,5.033333333333333,Local,Restaurant,Low,Low,Medium,High,>5,1.7972996496036704
+131,Lombok Lodge,61000000.0,61000000.0,0.0,1.0,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+132,Luna Beach Hotel,60390000.0,15750000.0,144.0,0.2608047690014903,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.23175022263454148
+133,Luxury Collection Laboan Bajo,48800000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+134,Luxury Collection Lombok,182400000.0,0.0,0.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+135,MBS - Fieldcrest,0.0,119319840.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+136,MG Hotel Supplies LLC ,0.0,105940010.0,0.0,,Export,Agent,Low,Low,Medium,,,
+137,Mactan Seascapes Services,0.0,386279378.0,0.0,,Export,Hotel,Low,Low,High,,,
+138,Made By Rumah,30000000.0,30300000.0,100.0,1.01,Local,Retail,Low,Low,Low,Medium,0.5–1.5,0.6981347220709844
+139,Makasar Boga Utama,0.0,25460000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+140,Mama San,42169200.0,48780000.0,144.0,1.1567684471130588,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.76861101213749
+141,Mana Uluwatu,75100000.0,53850000.0,0.0,0.7170439414114514,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.5406041735572648
+142,Mandara SPA,24000000.0,24000000.0,50.0,1.0,Local,Spa,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+143,Mandarin Oriental,990000.0,27885000.0,6.0,28.166666666666668,Export,Hotel,Low,Low,Low,High,>5,3.373026504695459
+144,Marea,0.0,9720000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+145,Margaret Bistro Canggu,0.0,111225000.0,0.0,,Local,Restaurant,Low,Low,Medium,,,
+146,Mari Beach Club,228200000.0,0.0,0.0,0.0,Local,Restaurant,High,High,Low,Low,<0.5,0.0
+147,Mason,0.0,31000000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+148,Mason Uluwatu,27480000.0,22290000.0,70.0,0.8111353711790393,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.5939539255163143
+149,Maya Sanur,256448000.0,273936500.0,60.0,1.0681951116795607,Local,Hotel,High,High,High,Medium,0.5–1.5,0.7266763002032138
+150,Maya Ubud,50837500.0,97277200.0,241.0,1.913492992377674,Local,Hotel,Medium,Medium,Medium,High,1.5–5,1.0693527023733436
+151,Melia Bali,405000000.0,0.0,1992.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+152,Menjangan Dynasty,87150000.0,92910000.0,0.0,1.066092943201377,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.7256593567143009
+153,Meru Sanur,1868795000.0,205625000.0,7816.0,0.11003079524506433,Local,Hotel,High,High,High,Low,<0.5,0.1043877584034219
+154,Mexicola Canggu,27150000.0,54405000.0,0.0,2.003867403314917,Local,Restaurant,Low,Low,Medium,High,1.5–5,1.0999005928860492
+155,Mexicola Seminyak,463402000.0,205850000.0,920.0,0.4442147422756052,Local,Restaurant,High,High,High,Low,<0.5,0.3675657429011412
+156,Micha Sanubari,272050000.0,34950000.0,1500.0,0.1284690314280463,Local,Hotel,High,High,Low,Low,<0.5,0.1208618746552628
+157,Michael Lorenti,109538000.0,34410000.0,0.0,0.314137559568369,Local,Personal,Medium,Medium,Low,Low,<0.5,0.27318060223020996
+158,Milano Canggu (White Goose Boutique Hotel),17880000.0,0.0,120.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+159,Milk Bar,6360000.0,6360000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+160,Milk and Madu Berawa,63050000.0,75150000.0,0.0,1.1919111816019032,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.7847738489226409
+161,Milk and Madu Ubud,6720000.0,6720000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+162,Milk and Madu Uluwatu,69550000.0,67700000.0,0.0,0.9734004313443566,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6797581620201881
+163,Mimpi Resort Menjangan,38880000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+164,Miss Fish,33300000.0,2700000.0,30.0,0.08108108108108109,Local,Restaurant,Low,Low,Low,Low,<0.5,0.07796154146971186
+165,Monokuro,15300000.0,21150000.0,0.0,1.3823529411764706,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.8680886300562773
+166,Mozaic Ubud,49970000.0,49970000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+167,Nam Heong,19440000.0,19440000.0,0.0,1.0,Local,Personal,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+168,Naughty Nuri's,5200000.0,5200000.0,20.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+169,Nawa Laboan Bajo,1409715000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+170,New World Phu Quoc,0.0,109344000.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+171,Nihi Rote,559873250.0,308140000.0,1015.0,0.5503745713873631,Local,Hotel,High,High,High,Medium,0.5–1.5,0.43849656069592136
+172,Nihi Sumba,1030062523.0,224697920.0,1384.0,0.21814007886198963,Local,Hotel,High,High,High,Low,<0.5,0.1973251699507291
+173,Novotel Bali Benoa,43650000.0,0.0,350.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+174,Nusa Dua Beach Hotel ,137146000.0,64590000.0,166.0,0.47095795721348055,Local,Hotel,Medium,Medium,Medium,Low,<0.5,0.38591386011872586
+175,Nusa Penida Beach Resort,435620000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+176,Nusantara Ubud,45552000.0,45552000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+177,Oberoi Bali,0.0,128010750.0,0.0,,Local,Hotel,Low,Low,Medium,,,
+178,Omma Bali ,136562500.0,118512500.0,0.0,0.8678260869565217,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6247752342714595
+179,Ootoya Jakarta,74424000.0,0.0,384.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+180,Optimist Pererenan,239305000.0,200640000.0,0.0,0.8384279475982532,Local,Restaurant,High,High,High,Medium,0.5–1.5,0.6089108301281417
+181,PT Indoguna Utama,15770000.0,25175000.0,0.0,1.5963855421686748,Local,Restaurant,Low,Low,Low,High,1.5–5,0.9541203017472045
+182,PT Lombok Kulina Utama,0.0,118152000.0,0.0,,Local,Restaurant,Low,Low,Medium,,,
+183,PT Wakatobi Resort,0.0,1440000.0,0.0,,Local,Hotel,Low,Low,Low,,,
+184,Pablo Long Time,250570000.0,156760000.0,0.0,0.6256136009897434,Local,Restaurant,High,High,Medium,Medium,0.5–1.5,0.48588534511760495
+185,Padma Ubud,15000000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+186,Pahdi Speciality Coffee,230499750.0,230499750.0,882.0,1.0,Local,Cafe,High,High,High,Medium,0.5–1.5,0.6931471805599453
+187,Pak Dio Personal Order,0.0,28242000.0,0.0,,Local,Personal,Low,Low,Low,,,
+188,Palembang Boga Utama,0.0,36692000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+189,Pan Pacific Hotel,809922500.0,816301500.0,0.0,1.0078760622158294,Local,Hotel,High,High,High,Medium,0.5–1.5,0.6970774779205324
+190,Paola Buendia,4320000.0,0.0,24.0,0.0,Local,Personal,Low,Low,Low,Low,<0.5,0.0
+191,Park Hyatt Jakarta,41160000.0,19320000.0,100.0,0.46938775510204084,Local,Hotel,Low,Low,Low,Low,<0.5,0.3848458209054287
+192,Potato Head,101600000.0,0.0,0.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+193,R&B Steak Bali,176250000.0,0.0,0.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+194,R&B Steak Palembang,23220000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+195,Raffles Bahrain,0.0,1592665536.0,0.0,,Export,Hotel,Low,Low,High,,,
+196,Raffles Bali,240805000.0,137630000.0,24.0,0.5715412885945059,Local,Hotel,High,High,Medium,Medium,0.5–1.5,0.45205685027624265
+197,Raffles Singapore ,0.0,242822424.0,0.0,,Export,Hotel,Low,Low,High,,,
+198,Rayjin,0.0,37520000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+199,Regen Canggu,552257500.0,2391643700.0,228.0,4.330667668614732,Local,Hotel,High,High,High,High,1.5–5,1.6734764964892135
+200,Renarte,0.0,7952188.0,120.0,,Export,Agent,Low,Low,Low,,,
+201,Revolver Airport,68110000.0,68110000.0,84.0,1.0,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+202,Revolver Seminyak,20220000.0,20220000.0,87.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+203,Revolver Umalas,89855000.0,355000.0,0.0,0.003950809637749708,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.003943025684561936
+204,Ritz Carlton Bahrain,0.0,241758250.0,0.0,,Export,Hotel,Low,Low,High,,,
+205,Ritz Carlton Bali,315440000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+206,Ritz Carlton Maldives ,0.0,192051092.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+207,Ritz Carlton Mega Kuningan,56400000.0,0.0,0.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+208,Ritz-Carlton Pacific Place Jakarta,17520000.0,0.0,48.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+209,Riviera Cafe,6060000.0,6060000.0,60.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+210,Riviera Pererenan,30410000.0,155826000.0,74.0,5.124169681025978,Local,Restaurant,Low,Low,Medium,High,>5,1.8122431849599212
+211,Rosewood Hotel Doha,0.0,154767925.0,0.0,,Export,Hotel,Low,Low,Medium,,,
+212,Samabe,15840000.0,15840000.0,0.0,1.0,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+213,Samanvaya,75475000.0,29270000.0,206.0,0.3878105332891686,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.3277273493732058
+214,Samara Boat,67785000.0,0.0,0.0,0.0,Local,,Medium,Medium,Low,Low,<0.5,0.0
+215,Samara Lombok ,26280000.0,0.0,120.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+216,Santanera,22080000.0,22080000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+217,Sardine,15870000.0,15870000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+218,Savaya,3900000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+219,Sazon,938825000.0,0.0,2024.0,0.0,Local,Restaurant,High,High,Low,Low,<0.5,0.0
+220,Seniman Coffee,3840000.0,22240000.0,0.0,5.791666666666667,Local,Hotel,Low,Low,Low,High,>5,1.9156963704588168
+221,Sharon Frances,15440000.0,15440000.0,0.0,1.0,Local,Personal,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+222,Shelter Pererenan,363864750.0,249308500.0,180.0,0.6851680466437048,Local,Restaurant,High,High,High,Medium,0.5–1.5,0.5218652897773437
+223,Shelter Seminyak,28445000.0,3500000.0,0.0,0.1230444717876604,Local,Restaurant,Low,Low,Low,Low,<0.5,0.11604327585169588
+224,Sheraton Melbourne Hotel,0.0,12299040.0,0.0,,Export,Hotel,Low,Low,Low,,,
+225,ShiShi Seminyak,15000000.0,0.0,100.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+226,Si Jin,36340540.0,7840540.0,0.0,0.21575188480963683,Local,Restaurant,Low,Low,Low,Low,<0.5,0.19536272062721632
+227,Silolona,100560000.0,100560000.0,0.0,1.0,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+228,Simon & Son's,106080000.0,170485000.0,0.0,1.6071361236802413,Local,Restaurant,Medium,Medium,Medium,High,1.5–5,0.9582523482718623
+229,Sindalah,0.0,5699219200.0,0.0,,Export,Hotel,Low,Low,High,,,
+230,Six Sense Fiji,0.0,23256351.0,0.0,,Export,Hotel,Low,Low,Low,,,
+231,Six Sense Kanuhura,0.0,24631500.0,0.0,,Export,Hotel,Low,Low,Low,,,
+232,Six Sense London,0.0,438642773.0,0.0,,Export,Hotel,Low,Low,High,,,
+233,Six Sense Southern Dunes,0.0,6702713.0,0.0,,Export,Hotel,Low,Low,Low,,,
+234,Six Sense Uluwatu,51445000.0,187600000.0,1476.0,3.6466128875498103,Local,Hotel,Medium,Medium,Medium,High,1.5–5,1.5361385428992602
+235,Sofitel,0.0,14250000.0,0.0,,Local,Hotel,Low,Low,Low,,,
+236,Soichiro,15250000.0,14880000.0,150.0,0.9757377049180328,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6809418500887892
+237,Solana,89930000.0,27700000.0,497.0,0.30801734682530857,Local,Spa,Medium,Medium,Low,Low,<0.5,0.2685125150459259
+238,St Regis Bali,1545000.0,71545000.0,0.0,46.30744336569579,Local,Hotel,Low,Low,Medium,High,>5,3.8566676481425914
+239,St Regis Jakarta,185740000.0,345847500.0,1000.0,1.8619979541294283,Local,Hotel,Medium,Medium,High,High,1.5–5,1.0515199662945307
+240,Suarga,57590000.0,11500000.0,29.0,0.19968744573710714,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.18206106098212252
+241,Sudamala Resort,150630000.0,0.0,840.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+242,Surabaya Boga Utama,0.0,22382000.0,0.0,,Local,Restaurant,Low,Low,Low,,,
+243,Surasang Restaurant,73750000.0,0.0,550.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+244,Sushi Tei Bandung,18000000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+245,Swissotel Jakarta,25300000.0,40700000.0,200.0,1.608695652173913,Local,Hotel,Low,Low,Low,High,1.5–5,0.958850346292951
+246,TS Suites Seminyak,157480000.0,0.0,750.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+247,Tabula Rasa Lombok,95560000.0,95560000.0,0.0,1.0,Local,,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+248,Tanadewa,77040000.0,77040000.0,168.0,1.0,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.6931471805599453
+249,Tejaprana Bisma,34090000.0,40240000.0,296.0,1.1804048107949545,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.7795105525873904
+250,Tejaprana Resort and Spa,0.0,100150000.0,0.0,,Local,Hotel,Low,Low,Medium,,,
+251,The Apurva Kempinski Bali,381821050.0,263987900.0,95.0,0.6913916872838729,Local,Hotel,High,High,High,Medium,0.5–1.5,0.525551673658314
+252,The Cave,3350000.0,3350000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+253,The Damai Hotel,63610000.0,88670000.0,0.0,1.3939632133312372,Local,Hotel,Medium,Medium,Medium,Medium,0.5–1.5,0.8729502408235837
+254,The Edge,30500000.0,15200000.0,0.0,0.49836065573770494,Local,Restaurant,Low,Low,Low,Low,<0.5,0.4043716142867931
+255,The Kayon Ubud,40680000.0,0.0,144.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+256,The Kemilau ,15840000.0,0.0,0.0,0.0,Local,Hotel,Low,Low,Low,Low,<0.5,0.0
+257,The Laguna,22000000.0,28000000.0,0.0,1.2727272727272727,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.8209805520698302
+258,The Lemon Tree Curacao,805450000.0,720637500.0,0.0,0.8947017195356632,Export,Restaurant,High,High,High,Medium,0.5–1.5,0.6390614222061256
+259,The Lynx Jakarta,101336500.0,0.0,0.0,0.0,Local,Restaurant,Medium,Medium,Low,Low,<0.5,0.0
+260,The Melia Sante,531900000.0,0.0,2340.0,0.0,Export,Restaurant,High,High,Low,Low,<0.5,0.0
+261,The Oberoi Bali,108800000.0,0.0,603.0,0.0,Local,Hotel,Medium,Medium,Low,Low,<0.5,0.0
+262,The Royal Purnama ,21480000.0,21480000.0,0.0,1.0,Local,Hotel,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+263,The Sanubari,0.0,116250000.0,0.0,,Local,Hotel,Low,Low,Medium,,,
+264,The Sourcing Bali,176400000.0,0.0,0.0,0.0,Local,Agent,Medium,Medium,Low,Low,<0.5,0.0
+265,The Westin,193324500.0,303914500.0,293.0,1.5720433778439877,Local,Hotel,Medium,Medium,High,High,1.5–5,0.9447006716468345
+266,Three Monkeys Sanur,15170000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+267,Ulekan,10980000.0,10980000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+268,Ulu Garden,174650000.0,131812500.0,1060.0,0.754723733180647,Local,Restaurant,Medium,Medium,Medium,Medium,0.5–1.5,0.5623114275353898
+269,Umalas Hotel Siganature,630670000.0,0.0,0.0,0.0,Local,Hotel,High,High,Low,Low,<0.5,0.0
+270,Viktoria Forina,142125000.0,0.0,0.0,0.0,Local,Personal,Medium,Medium,Low,Low,<0.5,0.0
+271,Wakatobi ,1440000.0,5550000.0,0.0,3.8541666666666665,Local,Hotel,Low,Low,Low,High,1.5–5,1.5798374426578095
+272,Waterbom,21120000.0,21120000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+273,Wolf Gang Puck,230485000.0,262839750.0,830.0,1.140376814109378,Local,Restaurant,High,High,High,Medium,0.5–1.5,0.7609818948927795
+274,Woo Bo,11700000.0,11700000.0,0.0,1.0,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.6931471805599453
+275,Wrong Gym,15000000.0,0.0,0.0,0.0,Local,Restaurant,Low,Low,Low,Low,<0.5,0.0
+276,Yawara,267990000.0,271590000.0,0.0,1.0134333370648159,Local,Restaurant,High,High,High,Medium,0.5–1.5,0.6998413927726217
+277,Zest Ubud,8150175.0,10500000.0,100.0,1.288315895057468,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.8278161300089362
+278,Zi Biru,35190000.0,33050500.0,0.0,0.9392014776925263,Local,Restaurant,Low,Low,Low,Medium,0.5–1.5,0.662276278903978
