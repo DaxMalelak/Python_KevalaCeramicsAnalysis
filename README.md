@@ -66,7 +66,7 @@ Each dataset includes attributes such as country, customer category, trade type,
 
 The interactive Tableau storyboard summarizes the project’s key insights across geospatial analysis, segmentation, regression modeling, and forecasting.
 
-**[View Tableau Storyboard]([https://public.tableau.com/app/profile/dax.malelak/viz/KevalaCeramicsStoryboard/Story1])**  
+**[View Tableau Storyboard](https://public.tableau.com/app/profile/dax.malelak/viz/KevalaCeramicsStoryboard/Story1)**
 
 ---
 
